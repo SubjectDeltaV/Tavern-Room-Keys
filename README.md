@@ -32,4 +32,4 @@ TECHNICAL INFORMATION
 -There are also changes to NPC pacakges, and a few items have been added to the Inns
 
 RELEASE PAGE
-Check out the release Page for this mod on the Nexus: 
+Check out the release Page for this mod on the Nexus: https://www.nexusmods.com/skyrimspecialedition/mods/54762
