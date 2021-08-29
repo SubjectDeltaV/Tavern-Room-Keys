@@ -30,3 +30,6 @@ TECHNICAL INFORMATION
 -To install, add the ESP to your load order as with any other mod
 -This mods works by adding & removing keys to the room rental script
 -There are also changes to NPC pacakges, and a few items have been added to the Inns
+
+RELEASE PAGE
+Check out the release Page for this mod on the Nexus: 
