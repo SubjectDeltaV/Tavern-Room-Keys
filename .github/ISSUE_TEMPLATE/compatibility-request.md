@@ -1,7 +1,7 @@
 ---
 name: Compatibility Request
 about: Suggest an mod to build compatibility for
-title: ''
+title: "[COMPAT]"
 labels: enhancement
 assignees: ''
 
